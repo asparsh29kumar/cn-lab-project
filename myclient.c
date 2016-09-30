@@ -1,3 +1,4 @@
+///This is the client code.
 #include <netdb.h>
 #include <netinet/in.h>
 #include <string.h>
